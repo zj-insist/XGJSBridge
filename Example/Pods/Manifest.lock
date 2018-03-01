@@ -1,0 +1,21 @@
+PODS:
+  - XGJSBridgeLibrary (0.2.2):
+    - YYKit
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - XGJSBridgeLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  XGJSBridgeLibrary:
+    :path: ../
+
+SPEC CHECKSUMS:
+  XGJSBridgeLibrary: c0d60a261e84749c57da3ca0fbaa886bb7b05f72
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: 7e84941f9320706adfe9372784472d71fc334505
+
+COCOAPODS: 1.2.1

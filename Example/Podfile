@@ -1,0 +1,9 @@
+
+target 'XGJSBridgeLibrary_Example' do
+  pod 'XGJSBridgeLibrary', :path => '../'
+
+  target 'XGJSBridgeLibrary_Tests' do
+    inherit! :search_paths
+
+  end
+end

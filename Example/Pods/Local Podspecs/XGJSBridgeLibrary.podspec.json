@@ -1,0 +1,28 @@
+{
+  "name": "XGJSBridgeLibrary",
+  "version": "0.2.2",
+  "summary": "兔巢JSBridge",
+  "description": "用于iOS平台KWWebView中与JS端通信。",
+  "homepage": "http://112.124.41.46/tuchaoprivatecommon/xgjsbridgelibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "QingShan-ZJ": "zj_lostself@163.com"
+  },
+  "source": {
+    "git": "http://112.124.41.46/tuchaoprivatecommon/xgjsbridgelibrary.git",
+    "tag": "0.2.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XGJSBridgeLibrary/Classes/**/*",
+  "resources": "XGJSBridgeLibrary/Resource/xgjsb_resource.xcassets",
+  "dependencies": {
+    "YYKit": [
+
+    ]
+  }
+}

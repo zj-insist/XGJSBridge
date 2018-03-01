@@ -1,0 +1,1 @@
+../../../../../XGJSBridgeLibrary/Classes/View/XGJSBShareView.h
