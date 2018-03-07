@@ -30,4 +30,4 @@ XGJSBridgeLibrary is available under the MIT license. See the LICENSE file for m
 
 ## Other   
 
-参考微信 JS 与客户端的交互文档，基于业务抽取的一款 JSBridge ，可以实现 JS 端对客户端的调用
+参考微信 JS 与客户端的交互文档，基于业务抽取的一款 JSBridge ，可以实现 JS 端对客户端的调用以及回调
